@@ -15,5 +15,6 @@ public class Ari {                    //Arithmetic exception
 		
 	}
 	System.out.println("Bye");
+	System.out.println("hi");
 }
 }
